@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e7e4d9;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 600px;
+  height: 900px;
+  background-image: url("./assets/background.png");
+  position: relative;
+  font-size: 100px;
+  color: #e5cbb5;
+  text-align: center;
+}
+
+.doodler {
+  width: 87px;
+  height: 85px;
+  background-image: url("./assets/doodler-guy.png");
+  position: absolute;
+}
+
+.platform {
+  width: 85px;
+  height: 15px;
+  background-image: url("./assets/platform.png");
+  position: absolute;
+}
+
+.broken-platform {
+  width: 61px;
+  height: 15px;
+  background-image: url("./assets/broken-platform.png");
+  position: absolute;
+}
