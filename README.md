@@ -1,6 +1,6 @@
 # Doodle Jump Player
 
-Simple doodle jump web-player written in JavaScript during FEWD course (Fall 2021).
+Simple Doodle Jump web-player written in JavaScript during FEWD course (Fall 2021).
 
 Game was implemented based on Ania Kubow's [tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU&t=114s).
 
